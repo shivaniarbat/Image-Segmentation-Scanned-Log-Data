@@ -1,6 +1,6 @@
 # Image-Segmentation-Scanned-Log-Data
 
-* Folder Organization : *
+##Folder Organization : *
 
 Input files :  ./Test_Results/approach2_testresults/input/
 Input files are the input images for the program
@@ -17,7 +17,7 @@ Histograms to show the global threshold saved as jpg file in this folder
 Contours : ./Test_Results/approach2_testresults/contours/
 Contours - intermediate output will be saved in this folder 
 
-**— Instructions to run the program. 
+###— Instructions to run the program. **
 
 1. Provide the input file name in the ‘approach2_image_segmentation.py’ file and run the code. 
 2. Output will be generated as mentioned above. 
